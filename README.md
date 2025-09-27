@@ -21,8 +21,12 @@ I am VANITHA V, an emerging Full Stack Engineer skilled in Java, React.js, Sprin
 
 ### Badges
 
-<b>My GitHub Stats</b>
+**My GitHub Stats**
 
-<a href="http://www.github.com/ vanithavelmurugan"><img src="https://github-readme-streak-stats.herokuapp.com/?user= vanithavelmurugan&stroke=64748b&background=ffffff&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+<a href="https://github.com/vanithavelmurugan">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanithavelmurugan&stroke=64748b&background=ffffff&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
+</a>
 
-<a href="https://github.com/ vanithavelmurugan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username= vanithavelmurugan&langs_count=10&title_color=64748b&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/vanithavelmurugan" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanithavelmurugan&langs_count=10&title_color=64748b&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
